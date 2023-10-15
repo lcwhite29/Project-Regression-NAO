@@ -5,4 +5,4 @@
 - Then using pandas the data is cleaned to find the most important data and put it into a usable form.
 - From here we can plot the emissions for the last 30+ years.
 
-![](Picture_15.png)
+![](Picture_16.png)
