@@ -13,3 +13,5 @@
 - Additionally, I added the linear regression line.
 
 ![](Picture_17.png)
+
+- With the lack of input data the easiest model to use was a standard linear regression. This also fits the data fairly well as there is a steady downward trend from 1990. However, the data also includes some anomalies, for example, 2020 and 2021 were years heavily affected by COVID-19 and 2009 was affected by the financial crisis. In these years, GHG emissions were considerably lower than in the previous few years. I did look at what caused this steep decline during the COVID-19 pandemic and it seems that transport and storage emissions reduce significantly. In particular, looking at the Excel file Air transport services had a significant reduction during these two years.
