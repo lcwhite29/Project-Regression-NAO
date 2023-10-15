@@ -6,3 +6,10 @@
 - From here we can plot the emissions for the last 30+ years.
 
 ![](Picture_16.png)
+
+- Taking the graph of the last 30+ years into account, to try and predict the next 5 years' GHG emissions I decided to use a standard linear regression model.
+- With the data frame including the year and total GHG emissions I used sklearn's linear regression model to predict the value of GHG emissions for 2022-2026.
+- I then added the years and predictions to a data frame. This data frame along with the one for the last 30+ years was then used to create a graph of predictions.
+- Additionally, I added the linear regression line.
+
+![](Picture_17.png)
