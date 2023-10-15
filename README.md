@@ -1,4 +1,4 @@
-# Project-Regression-NAO
+# NAO Greenhouse Gas Emissions - Regression
 
 - This project shows the total greenhouse gas (GHG) emissions over the last 30+ years and attempts to model the total GHG emissions for the next 5 years.
 - It begins by using pandas, a common data analysis and data science library, to read in an Excel file from an [ONS](https://www.ons.gov.uk/economy/environmentalaccounts/datasets/ukenvironmentalaccountsatmosphericemissionsgreenhousegasemissionsbyeconomicsectorandgasunitedkingdom) atmospheric emissions data source.
